@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+### MavenBuild ###
+target/
+
+### Task files ###
+java_test_task/
+
